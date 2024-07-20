@@ -1,2 +1,3 @@
 # Counter-Application
-I've create
+I've created a Counter Application using ReactJs Framework
+
